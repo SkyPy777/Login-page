@@ -13,6 +13,7 @@ def login():
             break
         else:
             print("\nIncorrect username or password.")
+            break
 
           
 #Register function
